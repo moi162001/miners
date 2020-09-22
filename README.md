@@ -9,7 +9,7 @@ as nvOC submodule from nvOC installation path:
 
 or alternatively init as standalone repo:
 
-`git clone https://github.com/papampi/nvOC_miners miners`
+`git clone https://github.com/moi162001/nvOC_miners miners`
 
 ## Install or update miners
 assuming no changes into local miners repo:
